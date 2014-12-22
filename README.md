@@ -35,8 +35,613 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Two hundred epigrammes, vpon two hundred prouerbes with a thyrde hundred newely added and made by Io
+
+1. The table of this booke.
+
 #####Body#####
+Of amendment. i.IF euery man mende one, all ſhalbe mended.Thys meane to amendment, is now intended.F
+    _ Of amendment. i.
+
+    _ VVaggyng of beardes. ii.
+
+    _ Of Haſt. iii.
+
+    _ Breakyng of ſquare. iiii.
+
+    _ Lokynge and leapynge. v.
+
+    _ VVeddyng and hangyng. vi.
+
+    _ Of Delay. vii.
+
+    _ Of VVyttes. viii.
+
+    _ No lacke in loue. ix.
+
+    _ Of Homely home. x.
+
+    _ Gyuyng and takyng. xi.
+
+    _ Iacke and Gyll. xii.
+
+    _ Of the ende of a vvyt. xiii.
+
+    _ Of bought vvyt. xiiii.
+
+    _ Of haſte and vvaſte. xv.
+
+    _ Makyng of malte. xvi.
+
+    _ Of an akynge eye. xvii.
+
+    _ VVhat thyng beggers chooſe. xviii.
+
+    _ Of Robbyng. xix.
+
+    _ Of nede and lavve. xx.
+
+    _ Of beginning and endyng. xxi.
+
+    _ Of Grace. xxii.
+
+    _ Of fore prouiſion. xxiii.
+
+    _ Of Saying and doyng. xxiiii.
+
+    _ Of Treadyng on a vvorme. xxv.
+
+    _ Of Eaſe in an Inne. xxvi.
+
+    _ Hovve to proue a frende. xxvii.
+
+    _ Vnvvyſe vveddyng. xxviii.
+
+    _ Some thyng and nothyng. xxix,
+
+    _ The ſlepyng dogge. xxx.
+
+    _ Of Hap. xxxi.
+
+    _ Of Syght and mynde. xxxii.
+
+    _ Of Myrth vvyth vvyſdome. xxxiii.
+
+    _ Of Holdynge of a noſe. xxxiiii.
+
+    _ An eye ſore. xxxv.
+
+    _ Of Recknyng. xxxvi.
+
+    _ Settyng vp a candell. xxxvii.
+
+    _ Of cloudes and vvether. xxxviii.
+
+    _ Of makyng and marryng. xxxix.
+
+    _ Of byrdes and byrders. xl.
+
+    _ Of Sorovves. xli.
+
+    _ Of f•dyng and teachyng. xlii.
+
+    _ Of ſuffrance. xliii.
+
+    _ Of hym that ſet his hande on his money. xliiii.
+
+    _ Of a hors corying. xlv.
+
+    _ Of ſhame. xlvi.
+
+    _ A lordes harte and a beggen purſe. xlvii.
+
+    _ Of forgettyng. xlviii.
+
+    _ Of the harte and the heele. xlix.
+
+    _ Prayſe of a man aboue a horſe. l.
+
+    _ Of VVepyng. li.
+
+    _ Of tvvo falſe knaves. lii.
+
+    _ A hart in a hoſe. liii.
+
+    _ Of Crepyng and goyng. liiii.
+
+    _ Of floryng and fletyng. lv.
+
+    _ A man at an ebbe. lvi:
+
+    _ Syght in a mylſtone. lvii.
+
+    _ Of Throvvyng. lviii.
+
+    _ Of Store. lix.
+
+    _ Of One in pryſon. lx.
+
+    _ Sayntes and deuylles. lxi.
+
+    _ Of Botchyng. lxii.
+
+    _ Of a yeres fayre. lxiii.
+
+    _ Of a cap and a hed. lxiiii.
+
+    _ A theſe that hath no felovve. lxv.
+
+    _ Falſe meaſures. lxvi.
+
+    _ Of cleane ſvvepyng. lxvii.
+
+    _ Turnyng of Typpe•tes. lxviii.
+
+    _ Of theft and receyte. lxix.
+
+    _ Of vvorke and play lxx.
+
+    _ Of a peynted ſ•ethe. lxxi.
+
+    _ The hare and the hounde. lxxii.
+
+    _ Of beggers ſyngyng. lxxiii.
+
+    _ Of tvvo faces. lxxiiii.
+
+    _ Of Beggyng. lxxv.
+
+    _ Of nothyng. lxxvi.
+
+    _ Of Ventryng. lxxvii.
+
+    _ Of ſhalbe and ſhall not be. lxxviii.
+
+    _ The blacke Oxe. lxxix
+
+    _ Of Brydlyng. lxxx.
+
+    _ Mendyng and payryng. lxxxi.
+
+    _ Of runnyng vvithout turnyng. lxxxii.
+
+    _ Bying a Pyg. lxxxiii.
+
+    _ Hungry flyes. lxxxiiii.
+
+    _ Of louyng a dogge. lxxxv.
+
+    _ Of precious ſtones. lxxxvi.
+
+    _ Of yll and good vvynde. lxxxvii.
+
+    _ Of ſooth boorde. lxxxviii.
+
+    _ Of tales tolde in the eare. lxxxix.
+
+    _ Of goyng. xe.
+
+    _ Of neede. xci.
+
+    _ Takyng harte of graſſe. xcii.
+
+    _ Of nothyng and althyng. xciii.
+
+    _ Couetyng and leſyng. xciiii.
+
+    _ Of the marche hare. xcv.
+
+    _ Hovve god vvyll not do for vs. xcvi.
+
+    _ Of harpyng on a ſtrynge. xcvii.
+
+    _ A l•ſſe by the deuyls death. xcviii.
+
+    _ Of a ſheepes eye. xcix.
+
+    _ Of Rule. C.
+
+    _ Of blynde Bayerd. Ci.
+
+    _ Of the ſpynſters thryft. cii.
+
+    _ Of defnes. ciii.
+
+    _ Of a good hors. ciiii.
+
+    _ Of vvayes to the vvood cv.
+
+    _ Of one that may ſoone amend. cvi.
+
+    _ An yll hearer. cvii.
+
+    _ Of a good face cviii.
+
+    _ A ſharpe thorne. cix.
+
+    _ Cummyng and goyng. cx.
+
+    _ The better cumth ſeelde. cxi.
+
+    _ One dryueth out an other. cxii.
+
+    _ Of Burden. cxiii.
+
+    _ Runnyng and goyng. cxiiii.
+
+    _ A lacke of tooles. cxv.
+
+    _ Taſt of a mans tales. cxvi.
+
+    _ Of a cattes looke. cxvii.
+
+    _ One put out of a creede. cxviii.
+
+    _ All that may be vvon of the fox cxix.
+
+    _ The ſuertie of ſome ſeale. cxx.
+
+    _ The hares goyng avvay. cxxi.
+
+    _ Iudgement of colours. cxxii.
+
+    _ Hap and vvyt. cxxiii.
+
+    _ Of fortune to fooles, cxxiiii.
+
+    _ Of looſers vvordes. cxxv.
+
+    _ Gettyng and ſpendyng. cxxvi.
+
+    _ Matters not leyde a vvater. cxxvii.
+
+    _ Meaſure cxxviii.
+
+    _ Goyng beyonde the vvall. cxxix.
+
+    _ Of Harme. cxxx.
+
+    _ vvyt kept by vvarmth. cxxxi.
+
+    _ Lyght commyng and goyng. cxxxii.
+
+    _ Of kyſſyng. cxxxiii.
+
+    _ Of Leaue. cxxxiiii.
+
+    _ God in the almery. cxxxv.
+
+    _ The deuyl in the horologe. cxxxvi.
+
+    _ The Beſt. cxxxvii.
+
+    _ The VVorſt. cxxxviii.
+
+    _ Laſtyng of vvonder. cxxxix.
+
+    _ The galde hors. cxl.
+
+    _ Good begynnyng and ende. cxli.
+
+    _ The ſtyll ſovve. cxlii.
+
+    _ Of ſtumblynge. cxliii.
+
+    _ Of the ſhoe and the ſole. cxliiii.
+
+    _ Myght and Ryght. cxlv.
+
+    _ Byrth and teachynge. cxlvi.
+
+    _ Of Hangyng cxlvii.
+
+    _ An olde knaue. cxlviii.
+
+    _ A mans heare and his vvhood, cxlix.
+
+    _ Geynes and loſſes. cl.
+
+    _ Theues faulynge out. cli.
+
+    _ Of a ſhorne face. clii.
+
+    _ A benche vvhyſtler. cliii.
+
+    _ VVhat god ſayde to one. cliiii.
+
+    _ Bovvyng and breakyng. clv.
+
+    _ Of VVreſtlyng. clvi.
+
+    _ God and the Church. clvii.
+
+    _ Of one tale in all men tolde. clviii
+
+    _ Of Malkyn. clix.
+
+    _ Raſhe Ventryng. clx.
+
+    _ A ſcabde hors. clxi.
+
+    _ Of Syttynge. clxii.
+
+    _ Ale and vvyt. clxiii.
+
+    _ Of Reſtitution. clxiiii.
+
+    _ Eatyng of flyes. clxv.
+
+    _ Of the foxes preachyng. clxvi.
+
+    _ Of poore mens ſoules, clxvii.
+
+    _ Promyſe of ſylence. clxviii.
+
+    _ Of lyttle ſayinge. clxix.
+
+    _ Of the tyde. clxx.
+
+    _ Prayſe of good ende. clxxi.
+
+    _ Of hearyng and iudgynge. clxxii.
+
+    _ A leſſon for lookyng. clxxiii.
+
+    _ Of a vvomans lyues. clxxiiii.
+
+    _ The crovve called vvhyte. clxxv.
+
+    _ Of the olde foole. clxxvi.
+
+    _ Of a beane. clxxvii.
+
+    _ The gyft of a pyg. clxxviii.
+
+    _ Chaunge and robery. clxxix.
+
+    _ Of fayre vvordes. clxxx
+
+    _ Of Laughyng. clxxxi.
+
+    _ Of Sekyng. clxxxii.
+
+    _ Of a hed vnder a gyrdell clxxxiii.
+
+    _ Of vvyde ſhootyng. clxxxiiii.
+
+    _ The fooles bolte. clxxxv.
+
+    _ Of a marchaunt. clxxxvi.
+
+    _ Of Tounge. clxxxvii.
+
+    _ Of Speeche. clxxxviii.
+
+    _ A buſy body. clxxxix.
+
+    _ Of Tyme. cxc.
+
+    _ Of far caſtyng. cxci.
+
+    _ Of Hunger. cxcii.
+
+    _ Of Feedyng. cxciii.
+
+    _ Of Mortymers ſovve. cxciiii.
+
+    _ Of fleabytyng. cxcv.
+
+    _ The brecheles maſter. cxcvi.
+
+    _ Of meate and ſauce. cxcvii.
+
+    _ Of proferd ſeruice. cxcviii.
+
+    _ Of cowmune medlers. cxcix.
+
+    _ Of ynough and a feaſt. cc.
+
+1. ¶THE TABLE OF THE
+thyrde hundreth.
+Of playne faſhyn. i.THe playne faſhyn is beſt, what playne withowt pleatesThat faſhyn commendth the 
+    _ Of playne faſhyn. i.
+
+    _ Of hym that cumth laſt. ii.
+
+    _ Of Stryuynge. iii.
+
+    _ Of Syttynge. iiii.
+
+    _ Of vvrytynge to frendes. v.
+
+    _ Of greate Clarkes: vi.
+
+    _ Of Kyllynge. vii.
+
+    _ Of Falſhed. viii.
+
+    _ Of Bleedyng. ix.
+
+    _ Of Seynge. x.
+
+    _ Of Ils. xi.
+
+    _ Of Pepper. xii.
+
+    _ Of An yll ſtake. xiii.
+
+    _ Of Suffraunce. xiiii.
+
+    _ Of Myſrecknynge. xv.
+
+    _ Of Euen Recknynge. xvi.
+
+    _ Of Takynge. xvii.
+
+    _ Of Mum. xviii.
+
+    _ Of ſtoppynge a mouth. xix.
+
+    _ Of Caſtynge. xx.
+
+    _ Of Iack. xxi.
+
+    _ Of the vvynkynge Cat. xxii.
+
+    _ Of ſayinge Nay. xxiii.
+
+    _ Of the pye and crovve. xxiiii.
+
+    _ Of ſayinge naught but mum. xxv.
+
+    _ Of Toonge and vvyt. xxvi.
+
+    _ Of Ovvne. xxvii.
+
+    _ Of Spynnynge. xxviii.
+
+    _ Of laughynge. xxix.
+
+    _ Of Pleyinge. xxx.
+
+    _ Of the vvynde blovvyng. xxxi.
+
+    _ Of for and nye. xxxii.
+
+    _ Of thynſtep. xxxiii.
+
+    _ Of ſmaule and greate, xxxiiii.
+
+    _ Of the keyſe. xxxv.
+
+    _ Of prouender. xxxvi.
+
+    _ Of ſum here and theare. xxxvii.
+
+    _ Of the Perſons Lemman. xxxviii.
+
+    _ Of yll vveede. xxxix.
+
+    _ Of Synckynge. xl.
+
+    _ Of good ſyluer. xli.
+
+    _ Of the proude Cock. xlii.
+
+    _ Of fat in the fyre. xliii.
+
+    _ Of bovve bent. xliiii.
+
+    _ Of gods beinge. xlv.
+
+    _ Of Kynsfolke. xlvi.
+
+    _ Of Frendſhippe, xlvii.
+
+    _ Of Nothynge. xlviii.
+
+    _ Of Pouertie. xlix.
+
+    _ Of Eares glovvyng. l.
+
+    _ Of Poſt and Pyller. li.
+
+    _ Of may be. lii.
+
+    _ Of Vſe. liii.
+
+    _ Of Spurnynge. liiii.
+
+    _ Of Tyinge the bell. lv.
+
+    _ Of had I vvyſt. lvi.
+
+    _ Of Dauncying. lvii.
+
+    _ Of the eat eatyng fyſhe. lviii.
+
+    _ Of the blynde. lix.
+
+    _ Of the vvorſt and beſt. lx.
+
+    _ Of. v. egges. lxi.
+
+    _ Of dymyng. lxii.
+
+    _ Of the vvey. lxiii.
+
+    _ Of vvayting, lxiiii.
+
+    _ Of Ryme. lxv
+
+    _ Of fiſſhyng. lxvi.
+
+    _ Of good, lxvii.
+
+    _ Of the hot Iron. lxviii.
+
+    _ Of the Purſe, lxix.
+
+    _ Of many Handes, lxx.
+
+    _ Of the loth flake. lxxi,
+
+    _ Of Hauynge, lxxii.
+
+    _ Of Councell. lxxiii.
+
+    _ Of Rome. lxxiiii.
+
+    _ Of Speeche. lxxv.
+
+    _ Of one had in the vvynde. lxxvi.
+
+    _ Of one yll ſhod. lxxvii.
+
+    _ Of all and naught. lxxviii.
+
+    _ Of vvarnyng. lxxix.
+
+    _ Of byrdes flovvne. lxxx.
+
+    _ Of leauynge. lxxxi.
+
+    _ Of ſettyng in foote. lxxxii.
+
+    _ Of faſt byndyng. lxxxiii.
+
+    _ Of Hap. lxxxiiii.
+
+    _ Of Tyme. lxxxv.
+
+    _ Of the fat hog. lxxxvi.
+
+    _ Of the bale and boote. lxxxvii.
+
+    _ Of Sovves. lxxxviii.
+
+    _ Of makynge a Croſſe. lxxxix.
+
+    _ Of a pad. xc.
+
+    _ Of long ſtandynge. xci.
+
+    _ Of the vveaker. xcii.
+
+    _ Of Catchyng. xciii.
+
+    _ Of Holdynge. xciiii.
+
+    _ Of Knovvledge. xcv.
+
+    _ Of Smellyng. xcvi.
+
+    _ Of nought layde dovvne. xcvii.
+
+    _ Of ſyght and fare. xcviii.
+
+    _ Of the Pot not broken. xcix,
+
+    _ Of late and neuer. C.
 
 **Types of content**
 
